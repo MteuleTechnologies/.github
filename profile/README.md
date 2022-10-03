@@ -1,4 +1,4 @@
-![Logo](mteule technologies logo.png)
+![Logo](mteule%20technologies%20logo.png)
 
 ### About Us
 We are a leading software development provider in Kenya. We offer a wide range of services including:
