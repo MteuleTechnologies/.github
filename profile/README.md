@@ -8,5 +8,5 @@ We are a leading software development provider in Kenya. We offer a wide range o
 ✅ Graphics design. We design posters, cards or other digital graphics that complement your brand to help you market your products online.  
 ✅ Logo design. We design and create unique eye-catching memorable logos for your business to fit your business brand and personality.  
 ✅ Web design and development. We help you develop your online presence by designing and developing you a website to sell your products and services online.  
-
-Get in touch (info@mteuletechnologies.com)
+### Contact us
+Get in touch via (info@mteuletechnologies.com)
